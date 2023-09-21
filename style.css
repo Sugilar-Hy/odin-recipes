@@ -1,0 +1,44 @@
+body {
+    padding: 15%;
+    background-color:  #d9831b;
+}
+
+#papper {
+    border-radius: 10px;
+}
+
+.papper {
+    background-color: #cf7f1c;
+    padding: 30px;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+    margin: 50px;
+    color: white;
+    border: 1px bold white;
+}
+
+.image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+p {
+    color: white;
+    font-size: 7x;
+    text-align: center;
+}
+
+.sub    {
+    color: white;
+    font-weight: bold;
+}
+
+.ingredients {
+    color: white;
+}
+.ls-step {
+    color: white;
+}
